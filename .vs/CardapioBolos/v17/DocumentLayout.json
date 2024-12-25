@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\cardapio-bolos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\cardapio-bolos\\cardapio-bolos\\Migrations\\20241225214927_CriandoBancoInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cardapio-bolos\\Migrations\\20241225214927_CriandoBancoInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE598F0-8106-453D-A37D-C1FE2ECC3223}|cardapio-bolos\\CardapioBolos.csproj|c:\\users\\stephanie gomes\\desktop\\stephanie\\estudos\\c#\\cardapio-bolos\\cardapio-bolos\\model\\bolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE598F0-8106-453D-A37D-C1FE2ECC3223}|cardapio-bolos\\CardapioBolos.csproj|solutionrelative:cardapio-bolos\\model\\bolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE598F0-8106-453D-A37D-C1FE2ECC3223}|cardapio-bolos\\cardapio-bolos.csproj|c:\\users\\stephanie gomes\\desktop\\stephanie\\estudos\\c#\\cardapio-bolos\\cardapio-bolos\\model\\ingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE598F0-8106-453D-A37D-C1FE2ECC3223}|cardapio-bolos\\cardapio-bolos.csproj|solutionrelative:cardapio-bolos\\model\\ingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE598F0-8106-453D-A37D-C1FE2ECC3223}|cardapio-bolos\\cardapio-bolos.csproj|c:\\users\\stephanie gomes\\desktop\\stephanie\\estudos\\c#\\cardapio-bolos\\cardapio-bolos\\banco\\cardapioboloscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE598F0-8106-453D-A37D-C1FE2ECC3223}|cardapio-bolos\\cardapio-bolos.csproj|solutionrelative:cardapio-bolos\\banco\\cardapioboloscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\cardapio-bolos\\cardapio-bolos\\Migrations\\20241225214118_CriandoBancoInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cardapio-bolos\\Migrations\\20241225214118_CriandoBancoInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE598F0-8106-453D-A37D-C1FE2ECC3223}|cardapio-bolos\\cardapio-bolos.csproj|c:\\users\\stephanie gomes\\desktop\\stephanie\\estudos\\c#\\cardapio-bolos\\cardapio-bolos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE598F0-8106-453D-A37D-C1FE2ECC3223}|cardapio-bolos\\cardapio-bolos.csproj|solutionrelative:cardapio-bolos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241225214927_CriandoBancoInicial.cs",
+              "DocumentMoniker": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\cardapio-bolos\\cardapio-bolos\\Migrations\\20241225214927_CriandoBancoInicial.cs",
+              "RelativeDocumentMoniker": "cardapio-bolos\\Migrations\\20241225214927_CriandoBancoInicial.cs",
+              "ToolTip": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\cardapio-bolos\\cardapio-bolos\\Migrations\\20241225214927_CriandoBancoInicial.cs",
+              "RelativeToolTip": "cardapio-bolos\\Migrations\\20241225214927_CriandoBancoInicial.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:49:27.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\cardapio-bolos\\cardapio-bolos\\Program.cs",
+              "RelativeDocumentMoniker": "cardapio-bolos\\Program.cs",
+              "ToolTip": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\cardapio-bolos\\cardapio-bolos\\Program.cs",
+              "RelativeToolTip": "cardapio-bolos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:26:15.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241225214118_CriandoBancoInicial.cs",
+              "DocumentMoniker": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\cardapio-bolos\\cardapio-bolos\\Migrations\\20241225214118_CriandoBancoInicial.cs",
+              "RelativeDocumentMoniker": "cardapio-bolos\\Migrations\\20241225214118_CriandoBancoInicial.cs",
+              "ToolTip": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\cardapio-bolos\\cardapio-bolos\\Migrations\\20241225214118_CriandoBancoInicial.cs",
+              "RelativeToolTip": "cardapio-bolos\\Migrations\\20241225214118_CriandoBancoInicial.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:41:18.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bolo.cs",
+              "DocumentMoniker": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\cardapio-bolos\\cardapio-bolos\\Model\\Bolo.cs",
+              "RelativeDocumentMoniker": "cardapio-bolos\\Model\\Bolo.cs",
+              "ToolTip": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\cardapio-bolos\\cardapio-bolos\\Model\\Bolo.cs",
+              "RelativeToolTip": "cardapio-bolos\\Model\\Bolo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:40:31.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardapioBolosContext.cs",
+              "DocumentMoniker": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\cardapio-bolos\\cardapio-bolos\\Banco\\CardapioBolosContext.cs",
+              "RelativeDocumentMoniker": "cardapio-bolos\\Banco\\CardapioBolosContext.cs",
+              "ToolTip": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\cardapio-bolos\\cardapio-bolos\\Banco\\CardapioBolosContext.cs",
+              "RelativeToolTip": "cardapio-bolos\\Banco\\CardapioBolosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:28:55.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ingrediente.cs",
+              "DocumentMoniker": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\cardapio-bolos\\cardapio-bolos\\Model\\Ingrediente.cs",
+              "RelativeDocumentMoniker": "cardapio-bolos\\Model\\Ingrediente.cs",
+              "ToolTip": "C:\\Users\\Stephanie Gomes\\Desktop\\Stephanie\\Estudos\\C#\\cardapio-bolos\\cardapio-bolos\\Model\\Ingrediente.cs",
+              "RelativeToolTip": "cardapio-bolos\\Model\\Ingrediente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:24:04.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
